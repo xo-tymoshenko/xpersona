@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "954830664730",
+    "project_id": "xpersona-ecfdd",
+    "storage_bucket": "xpersona-ecfdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954830664730:android:2d24f40e7bfdaab1b84da3",
+        "android_client_info": {
+          "package_name": "dev.tymoshenko.xpersona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954830664730-iuaqgkqdoljnk8qn9hqn3ne7hjodhiik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tymoshenko.xpersona",
+            "certificate_hash": "d1c1b0e349a0a2a5acfcbfdd8905456d4bd7dd9f"
+          }
+        },
+        {
+          "client_id": "954830664730-unf3vs946qe3rqdrp3t9h1vcimb2bun1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesHWPyTSpLHhGoTnnBYqHhr46YadfKOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954830664730-unf3vs946qe3rqdrp3t9h1vcimb2bun1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
