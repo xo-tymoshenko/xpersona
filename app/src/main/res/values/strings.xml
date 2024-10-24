@@ -3,4 +3,5 @@
 
     <string name="greeting">Are you ready to be Persona?</string>
     <string name="sign_in_with">Sign in with</string>
+    <string name="something_went_wrong">Something went wrong:</string>
 </resources>
